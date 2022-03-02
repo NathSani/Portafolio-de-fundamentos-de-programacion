@@ -20,6 +20,7 @@ compu = 10
 _Compu = 12
 com_pu = 13
 Compu = 14
+
 ``` 
 
 ## Asignando valores a una variable
