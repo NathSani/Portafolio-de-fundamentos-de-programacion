@@ -15,11 +15,11 @@ Podemos asignar nombres a nuestras varibles, siempre y cuando no usemos palabras
 
 ``` python 
 
-* Manera correcta de asignar.
+Manera correcta de asignar.
 compu = 10 
 _Compu = 12
 com_pu = 13
-COMPU = 14
+cOMpu = 14
 
 ``` 
 
