@@ -7,9 +7,11 @@ Es un lenguaje de programacion de alto nivel, utlizado por grandes desarrollador
 Una variable en programacion es un espacio en donde se almacenerá información, esta se caracteriza por ser inestable, inscontante y mudable.  en Python las variables son consideradas como "Etiquetas" y hacen referencia  a los datos almacenados en dicha variable.
 
 ``` python 
-b= 8
+b = 8
 ```
+
 ## Nombrando una variable
+
 
 ## Asignando valores a una variable
 
