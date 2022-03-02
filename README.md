@@ -19,7 +19,7 @@ Podemos asignar nombres a nuestras varibles, siempre y cuando no usemos palabras
 compu = 10 
 _Compu = 12
 com_pu = 13
-Compu = 14
+COMPU = 14
 
 ``` 
 
