@@ -11,7 +11,16 @@ b = 8
 ```
 
 ## Nombrando una variable
+Podemos asignar nombres a nuestras varibles, siempre y cuando no usemos palabras reservadas de python. Esto debido a que si nosotros usamos una funcion  ya no seria variable si no cumpliria con otro objetivo, para nombrar variables correctamente debemos tener en cuenta los espacios o guiones.
 
+``` python 
+
+* Manera correcta de asignar.
+compu = 10 
+_Compu = 12
+com_pu = 13
+Compu = 14
+``` 
 
 ## Asignando valores a una variable
 
