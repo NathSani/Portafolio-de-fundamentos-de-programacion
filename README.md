@@ -1,6 +1,6 @@
 P"# Portafolio-de-fundamentos-de-programacion" 
 
-**# Qué es Python?**
+# Qué es Python?
 Es un lenguaje de programacion de alto nivel, utlizado por grandes desarrolladores por su gran capacidad para crear programas de todo tipo. Este lenguaje a diferencia de otro es de tipo interprete quiere decir que no se necesita compilar para ejecutar los programas realizados. Su gran ventaja es que se ejecuta desde el ordenador y no necesita ser traducido a lenguaje de máquina. 
 
 # Qué es una variable?
@@ -20,6 +20,12 @@ _Compu = 12
 com_pu = 13
 cOMpu = 14
 
+``` 
+**Manera incorrecta de asignar**
+``` python 
+Tra-duccion= 10
+tra duccir= 10
+.traducir= 10
 ``` 
 
 ## Asignando valores a una variable
