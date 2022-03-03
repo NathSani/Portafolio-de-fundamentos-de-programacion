@@ -117,7 +117,7 @@ Integer es un tipo de dato en donde solo pertenecen lo enteros, estos constan de
 
 **Ejemplo:**
 ``` python 
-Años= 20
+Años = 20
 print (type(Años))
 ```
 ## Float
@@ -125,7 +125,7 @@ El tipo de dato numérico **float** permite representar un número positivo o ne
 
 **Ejemplo:**
 ``` python 
-A= 0.152024
+A = 0.152024
 print (A)
 print (type(A))
 ```
@@ -134,14 +134,14 @@ Las cadenas en Python o tambien conocidas como  **strings** son un tipo inmutabl
 
 **Ejemplo con comillas:**
 ``` python 
-a= "Hola esto es un código"
+a = "Hola esto es un código"
 print (a)
 print (type(a))
 ```
 
 **Ejemplo con comilla simple:**
 ``` python 
-a= 'Hola esto es un código'
+a = 'Hola esto es un código'
 print (a)
 print (type(a))
 ```
