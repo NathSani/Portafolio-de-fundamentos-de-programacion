@@ -39,10 +39,17 @@ b = 2 +2
 
 ## Operadores básicos
 
-Los operadores basicos son:  ( suma, resta, multiplicacion, división y módulo), dichas operaciones son usadas para realizar operacioes matemáticas. Son esenciales aprenderlas porque serán el principio de cosas más complicadas. **Simbolos: (+), (-), (*) (/), (%)** .
+Los operadores basicos son:  ( suma, resta, multiplicacion, división y módulo), dichas operaciones son usadas para realizar operaciones matemáticas. Son esenciales aprenderlas porque serán el principio de cosas más complicadas. **Simbolos: (+), (-), (*) (/), (%)** .
 
 ### Suma
+La suma es una operación aritmética que consiste en reunir varias cantidades en una sola, su simbolo representativo en python es **(+)**.
 
+``` python 
+a= 4
+b= 8
+sum= a+b 
+print ("Sum")
+```
 ### Resta
 
 ### Multiplicación
