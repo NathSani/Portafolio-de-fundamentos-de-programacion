@@ -264,5 +264,25 @@ while num < 10 or num > 20 or num%2 !=0:
     num = int (input('Ingrese numeros positivos: '))
 ```
 ## Break
-
+Break es una sentencia el cual va alterar el funcionamiento de los ciclos ya sean como While o for. Practicamente una vez se encuentra la palabra break, el bucle se habrá terminado.
+``` python 
+contador= 0
+for i in range (10):
+    for j in range (10):
+        contador+= 1
+        print ('i: ', i, 'j: ', j)
+        if contador > 50:
+            break
+print ('contador', contador )
+```
 ## Continue
+La sentencia continue tambien nos permite modificar el compartamiento de los ciclos. Pero con una gran diferencia en **Continue** se salta todo el código restante en la iteración actual y vuelve al principio en el caso de que aún queden iteraciones por completar. No rompera el ciclo solo saltara el código pendiente.
+``` python 
+cad = 'Python'
+for let in cad:
+    if let == 'P':
+        continue
+    print(let)
+ ```
+ #Gracias    
+
