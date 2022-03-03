@@ -48,7 +48,7 @@ La suma es una operación aritmética que consiste en reunir varias cantidades e
 a = 4
 b = 8
 sum= a+b 
-print = ("sum")
+print(a,'+',b,'=',sum)
 ```
 **Salida:**
 ``` python 
@@ -60,7 +60,7 @@ La resta es una operación aritmética que consiste en quitar una cantidad (el s
 a = 10
 b = 2 
 rest= a-b
-print = ("rest")
+print(a,'-',b,'=',rest)
 ```
 **Salida:**
 ``` python 
@@ -74,7 +74,7 @@ La multiplicación se utiliza para encontrar el producto de 2 valores. En Python
 Num1 = 2
 Num2 = 5
 mult = Num1*Num2
-print = ("mult")
+print(Num1,'*',Num2,'=',mult)
 ```
 **Salida**
 ``` python 
@@ -86,7 +86,7 @@ Para la realizar el cociente entre dos números en Python debemos utilizar el op
 num1 = 8
 num2 = 4
 div= num1/num2
-print = ("div")
+print(num1,'/',num2,'=',div)
 ```
 **Salida**
 ``` python 
@@ -100,11 +100,11 @@ Para calcular el módulo en Python utilizamos el operador **(%)**, esta operaci�
 num1 = 5
 num2 = 2
 mod= num1%num2
-print = ("mod")
+print(num1,'%',num2,'=',mod)
 ```
 **Salida:**
 ``` python 
-0.1
+1
 ```
 # Tipos de datos en Python
 
@@ -117,9 +117,8 @@ Integer es un tipo de dato en donde solo pertenecen lo enteros, estos constan de
 
 **Ejemplo:**
 ``` python 
-x= 15584852
-y= 350 
-z= -23
+Años= 20
+print (type(Años))
 ```
 ## Float
 
