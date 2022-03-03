@@ -50,8 +50,22 @@ b= 8
 sum= a+b 
 print ("Sum")
 ```
+**Salida: **
+``` python 
+12
+```
 ### Resta
-
+La resta es una operación aritmética que consiste en quitar una cantidad (el sustraendo) de otra (el minuendo) para averiguar la diferencia entre las dos. Su representación en Python se da por medio del operador **(-)**.
+``` python 
+a=10
+b=2 
+rest= a-b
+print= ("rest")
+```
+**Salida: **
+``` python 
+8
+```
 ### Multiplicación
 
 ### División
