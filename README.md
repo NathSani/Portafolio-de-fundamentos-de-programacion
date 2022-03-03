@@ -147,10 +147,31 @@ print (type(a))
 ```
 
 ## Casting en Python
-
+En python casting es utilizado para convertir un tipo de dato a otro. Esto quiere decir que nosotros podemos cambiar el dato original a otro tipo de dato, existen 2 tipos de casting y son: 
+Casting implícito:Es realizada automáticamente por Python. Sucede cuando realizamos ciertas operaciones con dos tipos distintos.
+Casting explícito:Es tipo de casting es realizado por nosotros, tenemos la potestad de cambiar nuestro dato al que queremos.
+**Ejemplo de casting implícito:**
+``` python
+a = 8
+b = 12.5
+res = a+b
+print (type(res))
+```
+**Ejemplo de casting explícito:**
+``` python
+a =3.24
+a = int(a)
+print (a)
+```
 ## List
-
+Las listas en Python son un tipo de dato que permite almacenar datos de cualquier tipo. Las propiedades de la listas son: 
+**Son ordenadas, Pueden ser formadas por tipos arbitrarios, pueden ser indexadas, se pueden anidar unas a otras, son mutables y dinámicas.
+``` python 
+list = [1, 2, 3, 4, 5, 6, 7, 8]
+lista = [10, "Hola mundo", 15.25, [1, 2, 3, 4, 7, 8]]
+```
 ## Tuple
+Tuple o tupla en Python son un tipo de estructura similar a una lista, pero con una gran diferencia el cual es de tipo inmutable quiere decir que al ser declaradas ya no se pueden modificar. La tupla al igual que la lista permite almacenar datos. 
 
 ## Dictionary
 
