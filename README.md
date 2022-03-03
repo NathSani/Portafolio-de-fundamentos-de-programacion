@@ -148,8 +148,11 @@ print (type(a))
 
 ## Casting en Python
 En python casting es utilizado para convertir un tipo de dato a otro. Esto quiere decir que nosotros podemos cambiar el dato original a otro tipo de dato, existen 2 tipos de casting y son: 
+
 Casting implícito:Es realizada automáticamente por Python. Sucede cuando realizamos ciertas operaciones con dos tipos distintos.
+
 Casting explícito:Es tipo de casting es realizado por nosotros, tenemos la potestad de cambiar nuestro dato al que queremos.
+
 **Ejemplo de casting implícito:**
 ``` python
 a = 8
