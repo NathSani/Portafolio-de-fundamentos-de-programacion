@@ -113,7 +113,14 @@ Los tipos de datos definen un conjunto de valores que tienen una serie de caract
 // :D //
 
 ## Integer
+Integer es un tipo de dato en donde solo pertenecen lo enteros, estos constan de una serie sin comillas de sólo dígitos; es decir, no contienen comas decimales ni exponentes. En Python el conjunto está limitado realmente por la capacidad de la memoria disponible, no hay un límite de representación impuesto por el lenguaje.
 
+**Ejemplo:**
+``` python 
+x= 15584852
+y= 350 
+z= -23
+```
 ## Float
 
 ## String
