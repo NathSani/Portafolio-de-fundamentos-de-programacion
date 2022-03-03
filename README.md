@@ -168,14 +168,23 @@ print (a)
 ```
 ## List
 Las listas en Python son un tipo de dato que permite almacenar datos de cualquier tipo. Las propiedades de la listas son: 
-**Son ordenadas, Pueden ser formadas por tipos arbitrarios, pueden ser indexadas, se pueden anidar unas a otras, son mutables y dinámicas.
+
+**Ordenadas, Pueden ser formadas por tipos arbitrarios, posibilidad de indexar, pueden anidarse unas a otras, son mutables y dinámicas.**
 ``` python 
 list = [1, 2, 3, 4, 5, 6, 7, 8]
 lista = [10, "Hola mundo", 15.25, [1, 2, 3, 4, 7, 8]]
 ```
 ## Tuple
 Tuple o tupla en Python son un tipo de estructura similar a una lista, pero con una gran diferencia el cual es de tipo inmutable quiere decir que al ser declaradas ya no se pueden modificar. La tupla al igual que la lista permite almacenar datos. 
-
+``` python 
+tup= 10, 20, 30
+print (tup) # (10, 20, 30)
+```
+``` python 
+c = (8, 9, 10)
+x, y, z = c
+print(x, y, z)
+``` 
 ## Dictionary
 
 # Tomando decisiones
