@@ -178,7 +178,7 @@ lista = [10, "Hola mundo", 15.25, [1, 2, 3, 4, 7, 8]]
 Tuple o tupla en Python son un tipo de estructura similar a una lista, pero con una gran diferencia el cual es de tipo inmutable quiere decir que al ser declaradas ya no se pueden modificar. La tupla al igual que la lista permite almacenar datos. 
 ``` python 
 tup= 10, 20, 30
-print (tup) # (10, 20, 30)
+print (tup) 
 ```
 ``` python 
 c = (8, 9, 10)
@@ -186,7 +186,15 @@ x, y, z = c
 print(x, y, z)
 ``` 
 ## Dictionary
-
+Los diccionarios son una estructura de datos que nos permite almacenar su contenido en forma de llave y valor. En Python son considerados como colección de elementos. se crea de la siguiente manera para inicar cada uno contiene una **({})**, seguido con la separación de una **(,)**.
+``` python 
+n1= {
+  "Nombre": "Juan",
+  "Edad": 10, 
+  "Documento": 2565478
+}
+print(n1)
+```
 # Tomando decisiones
 
 ## Sentencia if
