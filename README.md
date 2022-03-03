@@ -108,9 +108,10 @@ print = ("mod")
 ```
 # Tipos de datos en Python
 
-Los tipos de datos definen un conjunto de valores que tienen una serie de características y propiedades determinadas. Los tipos de datos básicos de Python son los booleanos, los numéricos **(enteros, punto flotante y complejos) y las cadenas de caracteres).**
+Los tipos de datos definen un conjunto de valores que tienen una serie de características y propiedades determinadas. Los tipos de datos básicos de Python son los booleanos, los numéricos **(enteros, punto flotante y complejos)** y las cadenas de caracteres.
 
 // :D //
+
 ## Integer
 
 ## Float
