@@ -221,6 +221,7 @@ if a > 6 and a < 13:
 
 ## If - Else
 La sentencia IF-Else es utilizada para evaluar 2 condiciones ya sea si esta se cumple se ejecutara, lo mismo pasara si no se cumple se emite un mensaje. If al español SI, Else al español Si no, para expresear dicha condición se realiza de la siguiente manera:
+
 **(true): Se ejecuta el bloque de sentencias.**
 
 **(false): Se ejecuta el bloque de sentencias solo cuando la condición tiene como resultado falso.**
@@ -242,9 +243,26 @@ else:
     print ('El menor es', num1)
  ``` 
 ## Ciclo For
+El bucle for tiene un parecido con el ciclo While pero no son iguales. La principal diferencia con respecto al while esta en la condición. En el while la condición sera evaluada en cada iteración y esta se deice si vuelve a ejecutar o no el código, con respecto for no existe dicha  condición, sino un **iterable** que define las veces que se ejecutará el código. 
 
+``` python 
+n=7
+suma=0
+for i in range (n):
+    nota= float(input('Ingrese nota:'+ str (i+1)+ ':' ))
+    suma += nota
+
+promedio = suma/n
+print ('Promedio', promedio)
+```
 ## Ciclo While
+El bucle while nos permitira ejecutar nuestro código repetidas veces, por eso se le llama como ciclo repetitivo. El código se ejecutará unicamente si la condición determinada se cumple. Cuando esta deje de cumplirse, automaticamente se saldrá del bucle y se continuará la ejecución normal. 
 
+``` python 
+num= 11
+while num < 10 or num > 20 or num%2 !=0:
+    num = int (input('Ingrese numeros positivos: '))
+```
 ## Break
 
 ## Continue
