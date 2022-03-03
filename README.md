@@ -122,13 +122,29 @@ print (type(Años))
 ```
 ## Float
 El tipo de dato numérico **float** permite representar un número positivo o negativo con decimales, es decir, números reales. Los valores float son almacenados de una forma muy particular, denominada representación en coma flotante.
-**Ejemplo**
+
+**Ejemplo:**
 ``` python 
 A= 0.152024
 print (A)
 print (type(A))
 ```
 ## String
+Las cadenas en Python o tambien conocidas como  **strings** son un tipo inmutable que permite almacenar secuencias de caracteres. Para utilizar String en Python se debe utlizar **(" ")** o tambien podemos usar comillas simples **(' ')**.
+
+**Ejemplo:**
+``` python 
+a= "Hola esto es un código"
+print (a)
+print (type(a))
+```
+
+**Ejemplo con comilla simple:**
+``` python 
+a= 'Hola esto es un código'
+print (a)
+print (type(a))
+```
 
 ## Casting en Python
 
