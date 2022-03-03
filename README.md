@@ -121,7 +121,13 @@ Años= 20
 print (type(Años))
 ```
 ## Float
-
+El tipo de dato numérico **float** permite representar un número positivo o negativo con decimales, es decir, números reales. Los valores float son almacenados de una forma muy particular, denominada representación en coma flotante.
+**Ejemplo**
+``` python 
+A= 0.152024
+print (A)
+print (type(A))
+```
 ## String
 
 ## Casting en Python
