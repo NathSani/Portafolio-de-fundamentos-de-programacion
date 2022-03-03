@@ -48,7 +48,7 @@ La suma es una operación aritmética que consiste en reunir varias cantidades e
 a = 4
 b = 8
 sum= a+b 
-print ("Sum")
+print = ("sum")
 ```
 **Salida:**
 ``` python 
@@ -60,7 +60,7 @@ La resta es una operación aritmética que consiste en quitar una cantidad (el s
 a = 10
 b = 2 
 rest= a-b
-print= ("rest")
+print = ("rest")
 ```
 **Salida:**
 ``` python 
@@ -74,13 +74,24 @@ La multiplicación se utiliza para encontrar el producto de 2 valores. En Python
 Num1= 2
 Num2= 5
 mult = Num1+Num2
-print= ("mult"
+print = ("mult")
 ```
 **Salida**
 ``` python 
 10
 ```
 ### División
+Para la realizar el cociente entre dos números en Python debemos utilizar el operador **(/)**, La división es la operación contraria a la multiplicación. Para saber si la división es correcta se debe multiplicar el resultado, también llamado cociente, por el divisor.
+``` python 
+num1= 8
+num2= 4
+div= num1/num2
+print = ("div")
+```
+**Salida**
+``` python 
+2
+```
 
 ### Módulo
 
