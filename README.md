@@ -13,7 +13,7 @@ b = 8
 ## Nombrando una variable
 Podemos asignar nombres a nuestras variables, siempre y cuando no usemos palabras reservadas de Python. Esto debido a que si nosotros usamos una función ya no sería variable si no cumpliría con otro objetivo, para nombrar variables correctamente debemos tener en cuenta los espacios o guiones.
 
-**Manera correcta de asignar.**
+**Manera correcta de asignar:**
 ``` python 
 compu = 10 
 _Compu = 12
@@ -21,7 +21,7 @@ com_pu = 13
 cOMpu = 14
 
 ``` 
-**Manera incorrecta de asignar**
+**Manera incorrecta de asignar:**
 ``` python 
 tra-duccion= 10
 tra duccir= 10
@@ -71,9 +71,9 @@ print = ("rest")
 La multiplicación se utiliza para encontrar el producto de 2 valores. En Python es representada por el operador asterisco **(*)**. EL cual es "el operador de multiplicación".
 
 ``` python 
-Num1= 2
-Num2= 5
-mult = Num1+Num2
+Num1 = 2
+Num2 = 5
+mult = Num1*Num2
 print = ("mult")
 ```
 **Salida**
@@ -83,8 +83,8 @@ print = ("mult")
 ### División
 Para la realizar el cociente entre dos números en Python debemos utilizar el operador **(/)**, La división es la operación contraria a la multiplicación. Para saber si la división es correcta se debe multiplicar el resultado, también llamado cociente, por el divisor.
 ``` python 
-num1= 8
-num2= 4
+num1 = 8
+num2 = 4
 div= num1/num2
 print = ("div")
 ```
@@ -94,7 +94,18 @@ print = ("div")
 ```
 
 ### Módulo
+Para calcular el módulo en Python utilizamos el operador **(%)**, esta operación la utilizamos para encontrar el **resto** "cuando el primer operando se divide por el segundo".
 
+``` python 
+num1 = 5
+num2 = 2
+mod= num1%num2
+print = ("mod")
+```
+**Salida:**
+``` python 
+0.1
+```
 # Tipos de datos en Python
 
 ## Integer
