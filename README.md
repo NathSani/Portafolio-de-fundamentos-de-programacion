@@ -1,4 +1,4 @@
-# Portafolio-de-fundamentos-de-programacion #
+# Portafolio_"fundamentos deprogramación " #
 
 # Qué es Python?
 Es un lenguaje de programacion de alto nivel, utlizado por grandes desarrolladores por su gran capacidad para crear programas de todo tipo. Este lenguaje a diferencia de otro es de tipo interprete quiere decir que no se necesita compilar para ejecutar los programas realizados. Su gran ventaja es que se ejecuta desde el ordenador y no necesita ser traducido a lenguaje de máquina. 
