@@ -30,8 +30,12 @@ tra duccir= 10
 
 ## Asignando valores a una variable
 
+Las variables pueden contener un número, una cadena o un valor lógico (verdadero/falso). Para eso usaremos el operador de asignacion el cual es: (=) asi de le dara un valor a la variable y esta se mantendrá hasta que el programa termine de ejecutarse o hasta que se le asigne un nuevo valor.
 
-
+ ``` python 
+# Asigna a la variable <b> el resultado de la expresion 2+2
+a = 2 +2 
+```
 
 ## Operadores básicos
 
