@@ -50,7 +50,7 @@ b= 8
 sum= a+b 
 print ("Sum")
 ```
-**Salida: **
+**Salida:**
 ``` python 
 12
 ```
@@ -62,7 +62,7 @@ b=2
 rest= a-b
 print= ("rest")
 ```
-**Salida: **
+**Salida:**
 ``` python 
 8
 ```
