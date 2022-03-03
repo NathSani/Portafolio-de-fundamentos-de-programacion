@@ -34,7 +34,7 @@ Las variables pueden contener un número, una cadena o un valor lógico (verdade
 
  ``` python 
 # Asigna a la variable <b> el resultado de la expresion 2+2
-b = 2 +2 
+b = 2 + 2 
 ```
 
 ## Operadores básicos
@@ -45,8 +45,8 @@ Los operadores basicos son:  ( suma, resta, multiplicacion, división y módulo)
 La suma es una operación aritmética que consiste en reunir varias cantidades en una sola, su simbolo representativo en python es **(+)**.
 
 ``` python 
-a= 4
-b= 8
+a = 4
+b = 8
 sum= a+b 
 print ("Sum")
 ```
@@ -57,8 +57,8 @@ print ("Sum")
 ### Resta
 La resta es una operación aritmética que consiste en quitar una cantidad (el sustraendo) de otra (el minuendo) para averiguar la diferencia entre las dos. Su representación en Python se da por medio del operador **(-)**.
 ``` python 
-a=10
-b=2 
+a = 10
+b = 2 
 rest= a-b
 print= ("rest")
 ```
@@ -68,6 +68,18 @@ print= ("rest")
 ```
 ### Multiplicación
 
+La multiplicación se utiliza para encontrar el producto de 2 valores. En Python es representada por el operador asterisco **(*)**. EL cual es "el operador de multiplicación".
+
+``` python 
+Num1= 2
+Num2= 5
+mult = Num1+Num2
+print= ("mult"
+```
+**Salida**
+``` python 
+10
+```
 ### División
 
 ### Módulo
