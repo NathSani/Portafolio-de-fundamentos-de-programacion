@@ -34,10 +34,12 @@ Las variables pueden contener un número, una cadena o un valor lógico (verdade
 
  ``` python 
 # Asigna a la variable <b> el resultado de la expresion 2+2
-a = 2 +2 
+b = 2 +2 
 ```
 
 ## Operadores básicos
+
+Los operadores basicos son:  ( suma, resta, multiplicacion, división y módulo), dichas operaciones son usadas para realizar operacioes matemáticas. Son esenciales aprenderlas porque serán el principio de cosas más complicadas. **Simbolos: (+), (-), (*) (/), (%)** .
 
 ### Suma
 
