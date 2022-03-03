@@ -1,4 +1,4 @@
-# Portafolio_"fundamentos deprogramación " #
+# Portafolio "fundamentos de programación " #
 
 # Qué es Python?
 Es un lenguaje de programacion de alto nivel, utlizado por grandes desarrolladores por su gran capacidad para crear programas de todo tipo. Este lenguaje a diferencia de otro es de tipo interprete quiere decir que no se necesita compilar para ejecutar los programas realizados. Su gran ventaja es que se ejecuta desde el ordenador y no necesita ser traducido a lenguaje de máquina. 
@@ -108,6 +108,9 @@ print = ("mod")
 ```
 # Tipos de datos en Python
 
+Los tipos de datos definen un conjunto de valores que tienen una serie de características y propiedades determinadas. Los tipos de datos básicos de Python son los booleanos, los numéricos **(enteros, punto flotante y complejos) y las cadenas de caracteres).**
+
+// :D //
 ## Integer
 
 ## Float
