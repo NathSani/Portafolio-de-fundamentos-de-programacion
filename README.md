@@ -196,6 +196,8 @@ n1= {
 print(n1)
 ```
 # Tomando decisiones
+En esta parte de la programación entraremos al mundo de los ciclos y sentencias.
+**if**, **ciclo for**, **break**, **continue**.
 
 ## Sentencia if
 
