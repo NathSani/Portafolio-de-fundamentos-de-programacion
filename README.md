@@ -132,7 +132,7 @@ print (type(A))
 ## String
 Las cadenas en Python o tambien conocidas como  **strings** son un tipo inmutable que permite almacenar secuencias de caracteres. Para utilizar String en Python se debe utlizar **(" ")** o tambien podemos usar comillas simples **(' ')**.
 
-**Ejemplo:**
+**Ejemplo con comillas:**
 ``` python 
 a= "Hola esto es un código"
 print (a)
