@@ -206,7 +206,7 @@ Su sintaxis es de la siguiente manera:
 
 **(true): Se ejecuta el bloque de sentencias.**
 
-**(false):No se ejecuta el bloque de sentencias.** 
+**(false):Ne ejecuta el bloque de sentencias.**
 ``` python 
 a = 8
 b = 9
@@ -218,6 +218,29 @@ a = 10
 if a > 6 and a < 13:
     print("Mayor que 6 y menor que 13")
 ``` 
+
+## If - Else
+La sentencia IF-Else es utilizada para evaluar 2 condiciones ya sea si esta se cumple se ejecutara, lo mismo pasara si no se cumple se emite un mensaje. If al español SI, Else al español Si no, para expresear dicha condición se realiza de la siguiente manera:
+**(true): Se ejecuta el bloque de sentencias.**
+
+**(false): Se ejecuta el bloque de sentencias solo cuando la condición tiene como resultado falso.**
+
+``` python 
+num1= 23
+num2= 11
+
+if num1 > num2:
+    print ('El mayor es', num1)
+    if num1%2 == 0:
+        print ("Y es un numero par")
+
+    else:
+        print ("y es un numero impar")
+ 
+else: 
+    print ('El mayor es', num2)
+    print ('El menor es', num1)
+ ``` 
 ## Ciclo For
 
 ## Ciclo While
