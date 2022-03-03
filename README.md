@@ -197,10 +197,27 @@ print(n1)
 ```
 # Tomando decisiones
 En esta parte de la programación entraremos al mundo de los ciclos y sentencias.
-**if**, **ciclo for**, **break**, **continue**.
+**if**, **for**, **break**, **continue**, **while**.
 
 ## Sentencia if
+La sentencia de condición IF nos permitira tomar decisiones, en un lenguaje de programación es muy importante ya que no permitira cambiar el flujo del programa. If al español Si, nos permitita que los bloques de código se ejecuten si y solo si se dan unas condiciones particulares.
+Su sintaxis es de la siguiente manera: 
+**IF: (condición)**
 
+**(true): Se ejecuta el bloque de sentencias.**
+
+**(false):No se ejecuta el bloque de sentencias.** 
+``` python 
+a = 8
+b = 9
+if b! = 0 
+   print (a/b)
+```
+``` python 
+a = 10
+if a > 6 and a < 13:
+    print("Mayor que 6 y menor que 13")
+``` 
 ## Ciclo For
 
 ## Ciclo While
